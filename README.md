@@ -1,2 +1,2 @@
 # BCA-project2k25
-My first repositry
+My first repositry.
